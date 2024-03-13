@@ -1,0 +1,49 @@
+{
+  "info": {
+    "subdir": "linux-64"
+  },
+  "packages": {
+    "ft4222-1.10.0-py310h7d7722b_0.tar.bz2": {
+      "build": "py310h7d7722b_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=13",
+        "libstdcxx-ng",
+        "python >=3.10,<3.11.0a0",
+        "python_abi 3.10.* *_cp310",
+        "sysroot_linux-64"
+      ],
+      "license": "MIT",
+      "md5": "64ce9b3ab248e250fd667aebe58b6946",
+      "name": "ft4222",
+      "sha256": "c081e2e3324a2284a789e3975bd0ed5ffd7cd4b5467a44885e13853647fffebb",
+      "size": 285431,
+      "subdir": "linux-64",
+      "timestamp": 1710355531172,
+      "version": "1.10.0"
+    },
+    "pyft4222-0.2.0-py310had1cda7_0.tar.bz2": {
+      "build": "py310had1cda7_0",
+      "build_number": 0,
+      "depends": [
+        "koda >=0.10.2",
+        "libgcc-ng",
+        "libstdcxx-ng",
+        "python >=3.10,<3.11.0a0",
+        "python_abi 3.10.* *_cp310",
+        "sysroot_linux-64"
+      ],
+      "license": "MIT",
+      "md5": "f7ab2c413b1e81abc19aa69e93755b43",
+      "name": "pyft4222",
+      "sha256": "edb364593e649601ff6d9c4d94a9d4976c316fa68d86fbded8bf0f8475f7f2e6",
+      "size": 909058,
+      "subdir": "linux-64",
+      "timestamp": 1710356929279,
+      "version": "0.2.0"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}
