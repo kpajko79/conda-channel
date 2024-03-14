@@ -31,6 +31,36 @@
       "timestamp": 1710355531,
       "version": "1.10.0"
     },
+    "gnuradio-ft4222": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "This module implements a GNU Radio source block for FT4222-based SPI-to-USB converters, enabling the reception of IQ samples sent over an SPI link.",
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/kpajko79/gr-ft4222",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-or-later",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "https://github.com/kpajko79/gr-ft4222.git",
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "GNU Radio ft4222 module",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1710392158,
+      "version": "0.0.0.20240314.dev+gf884b6181"
+    },
     "pyft4222": {
       "activate.d": false,
       "binary_prefix": false,

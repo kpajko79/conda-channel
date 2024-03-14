@@ -22,6 +22,30 @@
       "timestamp": 1710355531172,
       "version": "1.10.0"
     },
+    "gnuradio-ft4222-0.0.0.20240314.dev+gf884b6181-py310h57367f8_0.tar.bz2": {
+      "build": "py310h57367f8_0",
+      "build_number": 0,
+      "depends": [
+        "gmp >=6.3.0,<7.0a0",
+        "gnuradio-core >=3.10.9.2,<3.10.10.0a0",
+        "gnuradio-pmt >=3.10.9.2,<3.10.10.0a0",
+        "libgcc-ng >=13",
+        "libstdcxx-ng >=13",
+        "numpy >=1.22.4,<2.0a0",
+        "pyft4222",
+        "python >=3.10,<3.11.0a0",
+        "python_abi 3.10.* *_cp310",
+        "volk >=3.1.2,<3.2.0a0"
+      ],
+      "license": "GPL-3.0-or-later",
+      "md5": "5c42d02736ad08b7317fe8e550328feb",
+      "name": "gnuradio-ft4222",
+      "sha256": "3ace4637ed518ebb791e0eb87384d02eb48535067675a1cc9df7d29dfae8031e",
+      "size": 30054,
+      "subdir": "linux-64",
+      "timestamp": 1710392158597,
+      "version": "0.0.0.20240314.dev+gf884b6181"
+    },
     "pyft4222-0.2.0-py310had1cda7_0.tar.bz2": {
       "build": "py310had1cda7_0",
       "build_number": 0,
